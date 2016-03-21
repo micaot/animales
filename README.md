@@ -1,0 +1,1 @@
+esta app está hecha con ionic y es una base.
